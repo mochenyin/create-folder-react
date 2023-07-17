@@ -10,6 +10,7 @@
     "Other"
   ],
   "activationEvents": [],
+  "publisher": "mochenyin",
   "repository": {
 		"type": "git",
 		"url": "https://github.com/mochenyin/create-folder-react.git"
